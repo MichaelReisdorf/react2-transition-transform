@@ -20,3 +20,17 @@
 .App-link {
   color: #09d3ac;
 }
+h1{
+  color: green;
+}
+footer p{
+   color: red;
+   position: absolute;
+   padding-top: 780px;
+}
+button{
+  margin-top: 50px;
+  background-color: green;
+  border: 1px solid gray;
+  color: white;
+}
